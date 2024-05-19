@@ -1,3 +1,5 @@
+// chessPlayers.js
+
 const mongoose = require('mongoose');
 
 const chessPlayerSchema = new mongoose.Schema({
